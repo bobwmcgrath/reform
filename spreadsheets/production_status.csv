@@ -39,7 +39,7 @@ ID,Component,In Stock,Ordered,To Produce,Re-Stock ETA,Details
 ,Trackball Base,0,,10,,
 ,Trackball Ball (Steel?),0,TODO 10,,,
 ,Trackball Teensy LC,10,0,,,
-,Trackball Optical Sensor PWM 3360,10,0,,,
+,Trackball Optical Sensor PMW 3360,10,0,,,
 ,Power Switch Cable,0,,10,,Soldered power cable with 4x2mm shrouded header male
 ,Battery Cable Assembly,0,,10,,Soldered power cable with 4x2.54mm header female
 ,Keyboard USB Cable Assembly,0,,10,,Crimped flat cable with 4x2mm pins female
